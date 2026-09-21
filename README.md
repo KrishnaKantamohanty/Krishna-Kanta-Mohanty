@@ -1,14 +1,14 @@
 # Hi, I'm Krishna Kanta Mohanty 👋
 
-An **AI & Cybersecurity Developer** passionate about building Retrieval-Augmented Generation systems, deep learning models, and security solutions.
+An **AI & Cybersecurity Developer** focused on Retrieval-Augmented Generation (RAG) systems, deep learning models, and security solutions.
 
 ---
 
 ### 💫 About Me
-- 🔭 **worked on:** Advanced AI Systems, RAG Pipelines, and Deepfake Detection
+- 🔭 **Currently working on:** Advanced AI Systems, RAG Pipelines, and Deepfake Detection
 - 🌱 **Focus Areas:** Retrieval-Augmented Generation (RAG), Artificial Intelligence, & Cybersecurity
 - 💬 **Ask me about:** Python, JavaScript, AI Systems, and Web Development
-- 📬 **Reach Me:** [Email:- krishnakantamohanty5@gmail.com] | [LinkedIn:- www.linkedin.com/in/krishna-mohanty-06246b351]
+- 📬 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/krishna-mohanty-06246b351)
 
 ---
 
@@ -20,7 +20,7 @@ An **AI & Cybersecurity Developer** passionate about building Retrieval-Augmente
 | **[DEEPFAKE-AI](https://github.com/KrishnaKantamohanty/DEEPFAKE-AI)** | Deep learning implementation for deepfake media detection. | Python |
 | **[CYBERSECURITY-PROJECT](https://github.com/KrishnaKantamohanty/CYBERSECURITY-PROJECT)** | Core security tools and vulnerability analysis scripts. | Python |
 | **[A.R.E.S](https://github.com/KrishnaKantamohanty/A.R.E.S)** | Intelligent web-based project workspace. | JavaScript |
-| **[AI-CLASSROOM-INTELLIGENCE](https://github.com/KrishnaKantamohanty/AI-CLASSROOM-INTELLIGENCE-SYSTEM)** | Smart automated system for modern classroom environments. | HTML, JavaScript[cite: 2] |
+| **[AI-CLASSROOM-INTELLIGENCE](https://github.com/KrishnaKantamohanty/AI-CLASSROOM-INTELLIGENCE-SYSTEM)** | Smart automated system for modern classroom environments. | HTML, JavaScript |
 
 ---
 
@@ -42,11 +42,11 @@ An **AI & Cybersecurity Developer** passionate about building Retrieval-Augmente
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKantamohanty&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Krishna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKantamohanty&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKantamohanty&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishnaKantamohanty&theme=tokyonight" alt="Profile Details" width="48%" />
 </div>
 
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishna-mohanty-06246b351)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mohanty-06246b351)
